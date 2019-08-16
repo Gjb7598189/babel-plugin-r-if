@@ -1,0 +1,14 @@
+{
+  "name": "babel-plugin-myrif",
+  "version": "0.0.3",
+  "description": "模拟vue.js的v-if语法",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "r-if"
+  ],
+  "author": "闹闹不爱闹",
+  "license": "ISC"
+}
